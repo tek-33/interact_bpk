@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tek-33.github.io/interactbpk/sitemap.xml
+Sitemap: https://tek-33.github.io/interact_bpk/sitemap.xml
